@@ -1,0 +1,106 @@
+body{
+    padding-top: 70px;
+}
+
+.imgacc{
+    background-image: url("../img/forest-1.jpg"); 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+.navbar-webarena{
+    background-color: #343269;
+}
+
+.nav-webarena, .nav-a-webarena{
+    color : #fff;
+}
+
+.nav-a-webarena{
+    font-size: 15px;
+}
+
+.nav-a-webarena:hover{
+    color : #007095;
+}
+
+.nav-webarena:hover{
+    color : #cccccc;
+}
+
+footer{
+    margin-top: 100px;
+    background-color: #343269;
+    color : #fff;    
+}
+
+.case
+{
+	margin:0px;
+}
+
+.perso{
+    padding:10px;
+    color:black;
+}
+.terre{
+    padding:10px;
+    background-color: #985f0d;
+}
+
+.ligne{
+    
+    padding:10px;
+}
+
+h1
+{
+	font-size: 25px;
+       
+	
+}
+h2{
+    font-size: 20px;
+}
+
+#actions
+{
+
+	height: 12em;
+
+}
+
+.statfighter{
+    background-color: #eaeaea;
+    font-size: 16px;
+    font-family: Consolas;
+}
+
+.xp{
+    background-color : #ffcc00;
+}
+
+.vie{
+    background-color: #5cb85c;
+}
+
+.avatar{
+    text-align: center;
+    background-color: #eaeaea;
+}
+
+.chxNiveau{
+    text-align: center;
+    font-size: 16px;
+    font-family: Consolas;
+}
+
+label{
+    font-size: 16px;
+    font-family: Consolas;
+
+}
+
